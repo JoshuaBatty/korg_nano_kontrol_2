@@ -2,9 +2,13 @@
 name = "korg_nano_kontrol_2"
 version = "0.1.0"
 authors = ["JoshuaBatty <joshpbatty@gmail.com>"]
+description = "User friendly API to the Korg nano KONTROL 2 MIDI controller."
+readme = "README.md"
+keywords = ["korg", "midi", "nano", "kontrol"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/JoshuaBatty/korg_nano_kontrol_2.git"
+homepage = "https://github.com/JoshuaBatty/korg_nano_kontrol_2"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 midir = "0.5"
