@@ -1,6 +1,6 @@
 [package]
 name = "korg_nano_kontrol_2"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["JoshuaBatty <joshpbatty@gmail.com>"]
 description = "User friendly API to the Korg nano KONTROL 2 MIDI controller."
 readme = "README.md"
